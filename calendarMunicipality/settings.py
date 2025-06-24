@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'calendar_main',
     'api_v1',
     'rest_framework',
+    'rest_framework_simplejwt.token_blacklist',
     'drf_spectacular',
     'corsheaders',
 ]
